@@ -1,0 +1,38 @@
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    
+    
+    
+}
+
+.heading {
+    background-color: white;
+}
+
+body {
+    background-image: url("img/white-waves.png");
+}
+
+.col-sm-4 {
+    float: left;
+}
+
+img {
+    max-width: 100%;
+}
+
+.footer {
+    text-align: center;
+}
+
+p {
+    size: 1.5em;
+}
+
+.footer {
+    background-color: #666666;
+    border-top: #4aaaa5 solid .3em;
+    
+}
