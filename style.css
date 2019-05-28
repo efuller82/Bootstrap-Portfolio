@@ -1,0 +1,12 @@
+h1 {
+    float: left;
+}
+
+.navy {
+    float: right;
+}
+
+.info_title {
+    clear: both;
+    border-bottom: 8px solid #777777;
+}
