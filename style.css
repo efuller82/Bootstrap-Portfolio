@@ -8,5 +8,14 @@ h1 {
 
 .info_title {
     clear: both;
-    border-bottom: 8px solid #777777;
+    border-bottom: 8px solid #4aaa4a;
 }
+
+img {
+    float: left;
+    margin-right: 1em;
+}
+
+p {
+    text-align: justify;
+    }
