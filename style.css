@@ -42,6 +42,14 @@ p {
     float: right;
 }
 
+form {
+    margin: 5%;
+}
+
+.btn {
+    margin-top: 5%
+}
+
 
 
 
