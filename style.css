@@ -1,21 +1,33 @@
 h1 {
-    float: left;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 5px;
+    text-align: center;  
 }
 
-.navy {
-    float: right;
+h2 {
+    color: #4aaaa5;
+    border-bottom: 8px solid #777777;
 }
 
-.info_title {
-    clear: both;
-    border-bottom: 8px solid #4aaa4a;
+footer {
+    background-color: #777777;
+    border-top: 5px solid #4aaaa5;
+    text-align: center;
 }
 
-img {
-    float: left;
-    margin-right: 1em;
+body {
+    background-image: url(img/white-waves.png);
 }
 
-p {
-    text-align: justify;
-    }
+.header {
+    background-color: white;
+}
+
+
+
+
+
+
+
+
