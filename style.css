@@ -50,6 +50,17 @@ form {
     margin-top: 5%
 }
 
+.card {
+    padding: 5%;
+    margin: 5% 0;
+}
+
+h3, .card-body {
+    background-color: #4aaaa5;
+    color: white;
+    width: fluid;
+}
+
 
 
 
