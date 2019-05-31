@@ -1,7 +1,7 @@
 h1 {
     color: white;
     padding: 5px;
-    text-align: center;  
+    text-align: left;  
 }
 
 h2 {
@@ -34,6 +34,13 @@ p {
     padding-right: 4%
 }
 
+.nav-link {
+    color: #777777;
+}
+
+.nav {
+    float: right;
+}
 
 
 
