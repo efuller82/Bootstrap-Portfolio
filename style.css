@@ -1,5 +1,4 @@
 h1 {
-    background-color: #4aaaa5;
     color: white;
     padding: 5px;
     text-align: center;  
@@ -8,6 +7,7 @@ h1 {
 h2 {
     color: #4aaaa5;
     border-bottom: 8px solid #777777;
+    text-align: center;
 }
 
 footer {
@@ -18,12 +18,21 @@ footer {
 
 body {
     background-image: url(img/white-waves.png);
+    text-align: justify;
 }
 
 .header {
     background-color: white;
 }
 
+h1 span {
+    background-color: #4aaaa5;
+    padding: 1% 2%;
+}
+
+p {
+    padding-right: 4%
+}
 
 
 
